@@ -5,9 +5,10 @@
   overflow: hidden;
   display: flex;
   justify-content: center;
+  margin-bottom: 2rem;
 
   @include small-break {
-    margin: 0;
+    margin-bottom: 2rem;
   }
 }
 
